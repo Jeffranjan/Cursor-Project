@@ -79,12 +79,13 @@ header div nav ul {
   color: var(--color-white);
   background: var(--bg-color);
   font-size: 14px;
-  padding: 5.6px 10.5px 5.88px;
   border-radius: 50px;
   border: 1px solid #4d4d4d;
+  height: 27px;
+  width: 66px;
 }
 
-.hover {
+.hover:hover {
   cursor: pointer;
 }
 
@@ -92,9 +93,10 @@ header div nav ul {
   color: var(--bg-color);
   background: var(--color-white);
   font-size: 14px;
-  padding: 5.6px 10.5px 5.88px;
   border-radius: 50px;
   border: 1px solid #4d4d4d;
+  height: 27px;
+  width: 87px;
 }
 
 .section {
