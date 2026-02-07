@@ -1,6 +1,6 @@
-# ChaiCode Assignment for Peer Review
+# Dev Tool Landing Page - Cursor
 
-Dev Tool Landing Page Clone of Cursor
+ChaiCode[https://cursor.com] Peer Review Assigmnent to make a clone of - https://cursor.com
 
 # Task:
 
