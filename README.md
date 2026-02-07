@@ -1,15 +1,12 @@
-# Dev Tool Landing Page - Cursor
+# ChaiCode Peer Assignment: **Dev Tool Landing Page - Cursor**
+[ChaiCode](https://chaicode.com) Peer Review Assigmnent to make a clone of - https://cursor.com
 
-ChaiCode[https://cursor.com] Peer Review Assigmnent to make a clone of - https://cursor.com
-
-# Task:
-
+## Task:
 Recreate a desktop-first developer tool landing page inspired by the Cursor website. The goal of this assignment is visual and structural accuracy, not creativity or interactivity.
 
-# Constraints:
-
+## Constraints:
 - Use only HTML and CSS
-- No JavaScript
+- No JavaScript 
 - No TailwindCSS
 - No usage of AI
 - No animations or fancy effects
