@@ -27,4 +27,4 @@ Recreate a desktop-first developer tool landing page inspired by the Cursor webs
 
 # Output:
 
-![Screenshot of the project](\assets\image\screenshot.png)
+![Screenshot of the project](./assets/image/screenshot.png)
