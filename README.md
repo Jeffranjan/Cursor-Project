@@ -25,6 +25,6 @@ Recreate a desktop-first developer tool landing page inspired by the Cursor webs
 - Clean and semantic HTML usage
 - Overall visual closeness to the reference design
 
-# Output:
+# Solution/Output:
 
 ![Screenshot of the project](./assets/image/screenshot.png)
